@@ -1,2 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VkJVVOAn)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19509803&assignment_repo_type=AssignmentRepo)
+The code of 2 exercise are uploaded to the folder EX1, EX2. 
+  The EX1 folder is modificated from the original mmpretrain github repository,and the main modofication is the add the folder ~\configs\flowers, which saved the config file of different models. 
+    The folder worker_dir saved the finetune log of models. 
+    The EX2 folder includes several different modifications(including the modification of the last layer and the different use of optimizers). 
+    The folder figure include some validation accuracy graphs.
+   
+Because the files of training weights are too big to upload, I created a Google drive folder to store them, they can be looked up in https://drive.google.com/drive/folders/1KIRGjHXIQ60hQgSBXwD_bIolc2h4q_0y.
